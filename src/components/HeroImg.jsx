@@ -21,7 +21,7 @@ const HeroImg = () => {
             {" "}
             <button className="button">Projects</button>{" "}
           </Link>
-          <a href="/Resume.pdf" download>
+          <a href="/Resume_Zarnab.pdf" download>
             <button className="button">
               {" "}
               Resume <MdOutlineFileDownload size={"25px"} />
